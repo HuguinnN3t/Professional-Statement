@@ -1,0 +1,7 @@
+I am a passionate cybersecurity professional with a strong foundation in penetration testing, threat hunting, and security engineering. With a background in Computer Science and Engineering (CSE) and a master’s degree in cybersecurity, I am committed to identifying, analyzing, and mitigating cyber threats to protect organizations from evolving digital risks.
+
+My expertise spans cyber attack detection and defense, blending offensive and defensive security in a Purple Team approach. I thrive in environments that challenge me to uncover vulnerabilities, strengthen security postures, and respond proactively to emerging threats. Additionally, my software development skills and growing knowledge of AI/ML allow me to integrate automation and advanced analytics into cybersecurity operations.
+
+I am driven by a commitment to safeguarding organizations and individuals from cyber threats while upholding the principles of ethics, privacy, and compliance. Whether working with corporate security teams, government agencies, or cybersecurity firms, my goal is to contribute technical expertise, strategic thinking, and an attacker mindset to enhance security resilience.
+
+I am continuously evolving in this field, refining my skills, and staying ahead of adversaries. As I advance, I aim to collaborate with security teams, contribute to innovative solutions, and take on complex security challenges to make the digital world a safer place.
